@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="m4aCheckIdTag:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/m4aCheckIdTag_jar</output-path>
+    <root id="archive" name="m4aCheckIdTag.jar">
+      <element id="module-output" name="m4aCheckIdTag" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-io/commons-io/2.6/commons-io-2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jcodec/jcodec/0.2.5/jcodec-0.2.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
